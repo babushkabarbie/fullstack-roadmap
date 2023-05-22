@@ -7,7 +7,7 @@
   </div>
   <br>
   <p align="center">
-    Created this repository to track my evolution from a noob to a fullstack. I am using this roadmap to guide me, but feel free to give me suggestions about what to study! <b>Disclaimer: This repository is under constant construction.</b>
+    Created this repository to track my evolution from a noob to a fullstack. I am using <a href="https://coder-coder.com/learn-web-development/">this roadmap to guide me</a>, but feel free to give me suggestions about what to study! <b>Disclaimer: This repository is under constant construction.</b>
     <br />
   </p>
 </div>
