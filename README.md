@@ -60,5 +60,5 @@
   </ul>
   </details>
   <h2>Contact</h2>
-Ahri Prado - [@prttygalz](https://twitter.com/prttygalz) - yurbashian@gmail.com
+Arianne Prado - [@prttygalz](https://twitter.com/prttygalz) - yurbashian@gmail.com
 <p align="right">(<a href="https://github.com/babushkabarbie/fullstack-roadmap#fullstack-study-notes">back to top</a>)</p>
