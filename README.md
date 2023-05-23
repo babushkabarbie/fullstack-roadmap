@@ -27,7 +27,10 @@
     <li>
       <a href="#">Basic Front-end</a>
       <ul>
-        <li><a href="#">HTML</a></li>
+        <li><a href="https://github.com/babushkabarbie/fullstack-roadmap/tree/main/HTML">HTML</a></li>
+        <ul>
+          <li><a href="https://github.com/babushkabarbie/fullstack-roadmap/blob/main/HTML/Elements%20and%20Tags">Elements and Tags</a></li>
+        </ul>
         <li><a href="#">CSS</a></li>
         <li><a href="#">Javascript</a></li>
       </ul>
