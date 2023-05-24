@@ -15,6 +15,15 @@
 
   <h2>Table of Contents</h2>
   <details>
+   <ul>
+    <li>
+      <a href="#">Internet History</a>
+      <ul>
+        <li><a href="#">First computers</a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#">Code Editor</a></li>
+      </ul>
+    </li>
   <ul>
     <li>
       <a href="#">What is web development?</a>
